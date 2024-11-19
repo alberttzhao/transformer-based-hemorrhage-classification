@@ -1,1 +1,1 @@
-# transformer-based-hemorrhage-classification
+# Transformer-Based-Hemorrhage-Classification
